@@ -1,1 +1,1 @@
-# Django_model
+Simple Blog Django App
